@@ -1,0 +1,31 @@
+<html>
+<body bgcolor="#66cccc" style="font-family: Arial, sans-serif; padding: 10px;">
+
+  <h3 style="
+    display: inline-block;
+    border: 2px solid #333;
+    padding: 8px 15px;
+    background-color: #F08784;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  ">
+    Navigation
+  </h3>
+
+  <br><br>
+
+  <div style="line-height: 1.8; font-size: 16px;">
+    <a href="objective.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Career Objective</a><br>
+    <a href="education.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Education</a><br>
+    <a href="internship.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Internship</a><br>
+    <a href="skills.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Technical Skills</a><br>
+    <a href="projects.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Projects</a><br>
+    <a href="languages.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Languages Known</a><br>
+    <a href="strengths.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Key Strengths</a><br>
+    <a href="declaration.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Declaration</a><br>
+    <a href="contact.html" target="content" style="text-decoration: none; color: #003366;" onmouseover="this.style.color='darkred'" onmouseout="this.style.color='#003366'">Contact</a><br>
+  </div>
+
+</body>
+</html>
