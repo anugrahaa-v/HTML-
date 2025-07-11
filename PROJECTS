@@ -1,0 +1,65 @@
+<html>
+<head>
+  <title>Projects</title>
+  <style>
+    body {
+      background-color: #e6f2ff;
+      font-family: Arial, sans-serif;
+    }
+    .project-box {
+      border: 2px solid #4da6ff;
+      border-radius: 10px;
+           margin: 30px auto;
+      width: 80%;
+      background: #ffffff;
+    }
+    h2 {
+      text-align: center;
+      color: #003366;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #4da6ff;
+      color: white;
+      border-radius: 5px;
+      margin: 20px;
+    }
+    .btn:hover {
+      background-color: #3399ff;
+    }
+    .center-img {
+      text-align: center;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="project-box">
+    <h2>Projects</h2>
+
+    <p><b>E-commerce Management System</b> (DBMS Project)</p>
+    <p>Designed and implemented a database system to handle product listings, customer orders, and inventory management for an e-commerce platform.</p>
+
+    <p><b>Flutter Project – Book Management System</b></p>
+    <p>
+      A Book Management System allows users to manage a personal or institutional book inventory. This includes adding, updating, deleting, and viewing book records with details like title, author, category, and availability.
+    </p>
+    <p>This app can be used by:</p>
+    <ul>
+      <li>Students managing their own digital bookshelf</li>
+      <li>Small libraries or bookstores</li>
+      <li>Admins in educational institutions</li>
+    </ul>
+  </div>
+
+    <div class="center-img">
+  <center>  <img src="C:\Users\anugr\OneDrive\Desktop\prjjimg.webp" height="300"></center><br>
+
+<a class="btn" href="C:\Users\anugr\OneDrive\Desktop\content.html">&larr; Home</a>
+
+
+  </div>
+
+</body>
+</html>
