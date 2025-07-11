@@ -1,0 +1,63 @@
+<html>
+<head>
+  <title>Technical Skills</title>
+  <style>
+    body {
+      background-color: #e6f2ff;
+      font-family: Arial, sans-serif;
+    }
+    .skills-box {
+      background: #fff;
+      border: 2px solid #4da6ff;
+      border-radius: 10px;
+      width: 80%;
+      margin: 30px auto;
+  
+    }
+    h2 {
+      color: #003366;
+      text-align: center;
+    }
+    ul {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    .btn {
+      display: inline-block;
+     
+      background-color: #4da6ff;
+      color: white;
+      
+      border-radius: 5px;
+      margin: 20px;
+    }
+    
+    
+    .center-img {
+      text-align: center;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="skills-box">
+    <h2>Technical Skills</h2>
+    <ul>
+      <li><b>Programming Languages:</b> Java</li>
+      <li><b>Database:</b> SQLPlus</li>
+    </ul>
+    <p>
+      <b>Programming Language:</b> Java – Familiar with basic programming concepts like loops, conditions, classes, and objects.<br><br>
+      <b>Database:</b> SQLPlus – Able to write simple queries to create, retrieve, and manage data in Oracle databases.
+    </p>
+  </div>
+
+  <a class= "btn" href ="C:\Users\anugr\OneDrive\Desktop\content.html"><- home </a>
+
+  <div class="center-img">
+    
+  </div>
+
+</body>
+</html>
