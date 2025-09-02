@@ -1,0 +1,75 @@
+<html>
+<head>
+  <title>Career Objective</title>
+  <style>
+    body {
+      background: #D3D3D3;
+      font-family: Arial, sans-serif;
+    }
+    .career-box {
+      background: #fff;
+      border: 2px solid #4da6ff;
+      border-radius: 10px;
+      
+      margin: 30px auto;
+      width: 80%;
+      
+    }
+    h2 {
+      color: #003366;
+      text-align: center;
+    }
+    p, ul {
+      text-align: justify;
+      line-height: 1.6;
+      font-size: 16px;
+      color: #333;
+    }
+    ul {
+      margin-top: 10px;
+      margin-bottom: 10px;
+     
+    }
+    .btn {
+      display: inline-block;
+     
+      background: #4da6ff;
+      color: #fff;
+     
+      border-radius: 5px;
+      margin: 20px;
+    }
+        
+    .center-img {
+      text-align: center;
+      margin: 15px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="career-box">
+    <h2>Career Objective</h2>
+    <div class="center-img">
+      <img src="C:\htmlnew\objectiveimg.jpg" height="150" width="600">
+    </div>
+    <p>
+      I am a passionate and highly motivated Computer Science student with a strong foundation in programming languages such as Java and SQL, along with a growing interest in backend development and software engineering. My academic journey has equipped me with essential problem-solving abilities and logical thinking skills, which I consistently apply to both classroom projects and self-driven learning.
+
+      I possess excellent communication and interpersonal skills, enabling me to collaborate effectively in team environments and contribute to shared goals. I am a quick learner, eager to explore emerging technologies, and adapt easily to new tools or frameworks. My goal is to secure a role in a dynamic and growth-oriented organization where I can:
+    </p>
+    <ul>
+      <li>Apply my technical and analytical skills to solve real-world challenges</li>
+      <li>Gain hands-on experience in the software development lifecycle</li>
+      <li>Work alongside experienced professionals and mentors</li>
+      <li>Continuously grow as a developer and a team player</li>
+    </ul>
+    <p>
+      With a positive attitude, strong work ethic, and a passion for technology, I am ready to embrace new opportunities that allow me to learn, contribute, and make an impact.
+    </p>
+  </div>
+
+  <a class="btn" href="C:\Users\anugr\OneDrive\Desktop\content.html">&larr; Home</a>
+
+</body>
+</html>
